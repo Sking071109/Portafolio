@@ -1,0 +1,5 @@
+IMAGENES: cada página trae ilustraciones propias (archivos .svg) para que se vea completa desde el principio.
+Si querés usar fotos reales, guardalas en esta carpeta con el MISMO nombre pero en .jpg y reemplazan solas a la ilustración:
+pizzeria-hero.jpg, pizzeria-horno.jpg, veterinaria-hero.jpg, vet-1.jpg, vet-2.jpg, vet-3.jpg, gimnasio-hero.jpg, yo.jpg
+Fotos gratuitas: Unsplash o Pexels (revisá la licencia). Achicalas a menos de 300 KB, por ejemplo en squoosh.app.
+MAPAS: en cada demo, buscá el iframe de class="map" y cambiá "Buenos+Aires,+Argentina" por la dirección que quieras mostrar.
